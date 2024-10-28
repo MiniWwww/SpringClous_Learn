@@ -1,0 +1,13 @@
+server:
+  port: 9090
+spring:
+  application:
+    name: userservice
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+  datasource:
+    url: jdbc:mysql://localhost:3306/cloud_sc?useSSL=false
+    username: root
+    password: 12345678
+    driver-class-name: com.mysql.cj.jdbc.Driver

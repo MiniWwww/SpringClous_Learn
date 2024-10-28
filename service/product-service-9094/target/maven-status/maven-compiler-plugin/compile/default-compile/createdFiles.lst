@@ -1,0 +1,5 @@
+com/yili/productservice/service/ProductService.class
+com/yili/productservice/service/impl/ProductServiceImpl.class
+com/yili/productservice/ProductServiceApplication.class
+com/yili/productservice/mapper/ProductMapper.class
+com/yili/productservice/controller/ProductController.class

@@ -1,0 +1,5 @@
+com/yili/commentservice/service/CommentService.class
+com/yili/commentservice/service/impl/CommentServiceImpl.class
+com/yili/commentservice/mapper/CommentMapper.class
+com/yili/commentservice/controller/CommentController.class
+com/yili/commentservice/CommentServiceApplication.class

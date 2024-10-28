@@ -1,0 +1,5 @@
+com/yili/userservice/service/UserService.class
+com/yili/userservice/UserServiceApplication.class
+com/yili/userservice/mapper/UserMapper.class
+com/yili/userservice/controller/UserController.class
+com/yili/userservice/service/impl/UserServiceImpl.class
